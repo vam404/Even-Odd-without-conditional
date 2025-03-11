@@ -1,4 +1,4 @@
-package com.brono;
+package com.vam404;
 
 import java.util.Scanner;
 
